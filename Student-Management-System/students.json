@@ -1,0 +1,39 @@
+{
+    "students": [
+        {
+            "id": "STU-1001",
+            "name": "Ayesha Khan",
+            "age": 19,
+            "department": "Computer Science",
+            "email": "ayesha.khan@example.com"
+        },
+        {
+            "id": "STU-1002",
+            "name": "Ahmed Raza",
+            "age": 20,
+            "department": "Software Engineering",
+            "email": "ahmed.raza@example.com"
+        },
+        {
+            "id": "STU-1003",
+            "name": "Fatima Noor",
+            "age": 18,
+            "department": "Information Technology",
+            "email": "fatima.noor@example.com"
+        },
+        {
+            "id": "STU-1004",
+            "name": "Hamza Ali",
+            "age": 21,
+            "department": "Business Administration",
+            "email": "hamza.ali@example.com"
+        },
+        {
+            "id": "STU-1005",
+            "name": "Zainab Malik",
+            "age": 19,
+            "department": "Data Science",
+            "email": "zainab.malik@example.com"
+        }
+    ]
+}
